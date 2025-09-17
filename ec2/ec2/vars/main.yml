@@ -1,0 +1,4 @@
+---
+# vars file for ec2
+type: t3.small
+region: eu-west-2
